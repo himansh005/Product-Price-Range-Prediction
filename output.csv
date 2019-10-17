@@ -1,0 +1,859 @@
+,MCAT Name,Unit,Unit Wise Min Price,Unit Wise Max Price,Most Common Price 1,Most Common Price 2,Most Common Price 3,ISQ Name,ISQ Options,ISQ Min Price,ISQ Max Price
+0,AC Motors,Number,22000.0,25000.0,22000.0,25000.0,0.0,---,---,---,---
+1,AC Motors,Piece,45.0,12000.0,5000.0,45.0,3500.0,No of Phase,Three Phase,2000.0,40000.0
+2,AC Motors,Unit,2000.0,100000.0,5000.0,3000.0,20000.0,No of Phase,Three Phase,2000.0,5000.0
+3,Acme Safety Shoes,Box,860.0,860.0,860.0,0.0,0.0,---,---,---,---
+4,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Brand,Acme,349.0,1100.0
+5,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Certification,CE,835.0,1100.0
+6,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Certification,ISI,575.0,910.0
+7,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Color,Black,200.0,1300.0
+8,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Length,Low ankle,349.0,1020.0
+9,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Material,Leather,475.0,1050.0
+10,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Size,7,475.0,1020.0
+11,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Size,All Sizes,349.0,1550.0
+12,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Sole,PU,400.0,1500.0
+13,Acme Safety Shoes,Pair,200.0,1911.0,700.0,475.0,650.0,Sole Type,PU,575.0,850.0
+14,Acme Safety Shoes,Piece,200.0,699.0,399.0,200.0,699.0,Color,"Black, Brown",200.0,200.0
+15,Acme Safety Shoes,Unit,680.0,720.0,680.0,720.0,0.0,---,---,---,---
+16,Air Conditioner Voltage Stabilizer,Box,300.0,4150.0,600.0,1900.0,4150.0,---,---,---,---
+17,Air Conditioner Voltage Stabilizer,Piece,0.0,10000.0,2200.0,3650.0,6750.0,Power,4KVA,330.0,2200.0
+18,Air Conditioner Voltage Stabilizer,Piece,0.0,10000.0,2200.0,3650.0,6750.0,Power,5KVA,1250.0,2800.0
+19,Air Conditioner Voltage Stabilizer,Unit,1439.6,7091.8,2600.0,1439.0,1439.0,---,---,---,---
+20,Air Spray Gun,Piece,100.0,22000.0,1000.0,1100.0,22000.0,---,---,---,---
+21,Air Spray Gun,Unit,350.0,36000.0,34000.0,33000.0,36000.0,---,---,---,---
+22,Aluminium False Ceilings,Number,150.0,200.0,200.0,150.0,0.0,---,---,---,---
+23,Aluminium False Ceilings,Piece,40.0,270.0,40.0,270.0,230.0,---,---,---,---
+24,Aluminium False Ceilings,Square Feet,0.0,250.0,75.0,90.0,60.0,Color,White,8.5,110.0
+25,Aluminium False Ceilings,Square Feet,0.0,250.0,75.0,90.0,60.0,Material,Aluminum,52.0,222.0
+26,Aluminium False Ceilings,Square Feet(s),75.0,75.0,75.0,0.0,0.0,---,---,---,---
+27,Aluminium False Ceilings,Square Meter,650.0,650.0,650.0,0.0,0.0,---,---,---,---
+28,Aluminium Melting Furnace,Piece,50000.0,1150000.0,180000.0,200000.0,50000.0,Melting Material,Aluminium,50000.0,1000000.0
+29,Aluminium Melting Furnace,Piece,50000.0,1150000.0,180000.0,200000.0,50000.0,Power Source,Electric,50000.0,325000.0
+30,Aluminium Melting Furnace,Unit,100000.0,2000000.0,100000.0,500000.0,250000.0,Melting Material,Aluminium,360000.0,2000000.0
+31,Aluminium Melting Furnace,Unit,100000.0,2000000.0,100000.0,500000.0,250000.0,Power Source,Electric,250000.0,2000000.0
+32,Aluminum Cables,Meter,0.0,1011.0,14.0,45.0,1011.0,Conductor Type,Solid,6.0,14.0
+33,Aluminum Cables,Meter,0.0,1011.0,14.0,45.0,1011.0,Is It Armoured,Armoured,14.0,260.0
+34,Aluminum Cables,Meter,0.0,1011.0,14.0,45.0,1011.0,Power/Voltage,230 Volt,7.5,60.0
+35,Aluminum Cables,Roll,200.0,850.0,850.0,780.0,200.0,---,---,---,---
+36,Audio Amplifiers,Piece,40.0,71044.0,31746.0,18500.0,43000.0,Brand,APART AUDIO,36700.0,58300.0
+37,Audio Amplifiers,Piece,40.0,71044.0,31746.0,18500.0,43000.0,Brand,BOSCH,12369.0,31746.0
+38,Audio Amplifiers,Piece,40.0,71044.0,31746.0,18500.0,43000.0,Brand,RBM,1900.0,6500.0
+39,Audio Amplifiers,Piece,40.0,71044.0,31746.0,18500.0,43000.0,Channel,2,40.0,26900.0
+40,Audio Amplifiers,Unit,24000.0,42000.0,42000.0,24000.0,0.0,---,---,---,---
+41,Backhoe Loader,Hour,900.0,900.0,900.0,0.0,0.0,---,---,---,---
+42,Backhoe Loader,No,100000.0,100000.0,100000.0,0.0,0.0,---,---,---,---
+43,Backhoe Loader,Number,2000000.0,2690000.0,2600000.0,2570000.0,2690000.0,---,---,---,---
+44,Backhoe Loader,Piece,90000.0,2600000.0,250000.0,1600000.0,1230000.0,---,---,---,---
+45,Backhoe Loader,Set,700000.0,25000000.0,25000000.0,700000.0,0.0,---,---,---,---
+46,Backhoe Loader,Unit,290000.0,2795000.0,2250000.0,2300000.0,2600000.0,Condition,Brand New,760000.0,2750000.0
+47,Backhoe Loader,one,550000.0,550000.0,550000.0,0.0,0.0,---,---,---,---
+48,Bag Filling Machine,Piece,150000.0,1250000.0,1250000.0,200000.0,380000.0,---,---,---,---
+49,Bag Filling Machine,Unit,300000.0,395000.0,350000.0,375000.0,325000.0,Brand,Kvson,350000.0,375000.0
+50,Bag Filling Machine,Unit,300000.0,395000.0,350000.0,375000.0,325000.0,Machine Type,Semi-Automatic,375000.0,395000.0
+51,Belt Conveyors,1 Set,90000.0,90000.0,90000.0,0.0,0.0,---,---,---,---
+52,Belt Conveyors,Feet,2500.0,9500.0,3000.0,6000.0,3800.0,---,---,---,---
+53,Belt Conveyors,Foot,8000.0,15000.0,10000.0,15000.0,8000.0,---,---,---,---
+54,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Belt Material,PU,16000.0,38500.0
+55,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Belt Material,PVC,1000.0,40000.0
+56,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Belt Material,Rubber,2500.0,15000.0
+57,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Brand,Aline,12900.0,12900.0
+58,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Brand,Aravali Engineers,15000.0,25000.0
+59,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Condition,New,12900.0,15000.0
+60,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Material,Mild Steel,5000.0,18000.0
+61,Belt Conveyors,Meter,0.0,65000.0,12900.0,25000.0,15000.0,Material,Stainless Steel,500.0,38500.0
+62,Belt Conveyors,No,5000.0,250000.0,65000.0,250000.0,5000.0,---,---,---,---
+63,Belt Conveyors,Number,5000.0,300000.0,125000.0,275000.0,120000.0,---,---,---,---
+64,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Belt Material,PU,1000.0,55000.0
+65,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Belt Material,PVC,1000.0,280000.0
+66,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Condition,New,48000.0,150000.0
+67,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Material,Mild Steel,1000.0,50000.0
+68,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Material,Stainless Steel,20000.0,250000.0
+69,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Type,Bucket Conveyor,1000.0,110000.0
+70,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Type,Vibrating Conveyors,1000.0,110000.0
+71,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Usage/Application,Material Handling,50000.0,95000.0
+72,Belt Conveyors,Piece,1000.0,350000.0,50000.0,100000.0,150000.0,Usage/Application,Packaging,12500.0,150000.0
+73,Belt Conveyors,Piece(s),90000.0,150000.0,90000.0,150000.0,0.0,---,---,---,---
+74,Belt Conveyors,Running Feet,3500.0,13000.0,3500.0,13000.0,0.0,---,---,---,---
+75,Belt Conveyors,Set,15000.0,150000.0,120000.0,75000.0,150000.0,Belt Material,PVC,40000.0,120000.0
+76,Belt Conveyors,UNITS,70000.0,70000.0,70000.0,0.0,0.0,---,---,---,---
+77,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Belt Material,Neoprene,35000.0,100000.0
+78,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Belt Material,PU,75000.0,350000.0
+79,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Belt Material,PVC,8000.0,300000.0
+80,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Belt Material,Rubber,25000.0,200000.0
+81,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Brand,Sigma,85000.0,198000.0
+82,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Condition,New,30000.0,350000.0
+83,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Material,Aluminium,15000.0,140000.0
+84,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Material,Mild Steel,22000.0,350000.0
+85,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Material,Stainless Steel,8000.0,300000.0
+86,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Type,Belt Conveyor,90000.0,165000.0
+87,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Type,Bucket Conveyor,30000.0,198000.0
+88,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Type,Flexible Conveyors,25000.0,124512.0
+89,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Type,Gravity Conveyor,40000.0,300000.0
+90,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Type,Vertical Conveyors,35000.0,175000.0
+91,Belt Conveyors,Unit,8000.0,350000.0,100000.0,50000.0,40000.0,Usage/Application,Industrial,15000.0,180000.0
+92,Belt Pulley,Inch,23.0,45.0,25.0,23.0,30.0,Brand,Siddhi Machine Tools,25.0,30.0
+93,Belt Pulley,Inch,23.0,45.0,25.0,23.0,30.0,Material,Cast Iron,23.0,30.0
+94,Belt Pulley,Kilogram,50.0,70.0,70.0,65.0,50.0,---,---,---,---
+95,Belt Pulley,Kit,399.0,399.0,399.0,0.0,0.0,---,---,---,---
+96,Belt Pulley,Number,15.0,1800.0,15.0,1800.0,125.0,---,---,---,---
+97,Belt Pulley,Pair,249.0,249.0,249.0,0.0,0.0,---,---,---,---
+98,Belt Pulley,Piece,0.0,2500.0,500.0,120.0,2500.0,Material,Cast Iron,40.0,2000.0
+99,Belt Pulley,Piece,0.0,2500.0,500.0,120.0,2500.0,Type,Manual,350.0,500.0
+100,Belt Pulley,Unit,105.0,3500.0,130.0,650.0,3500.0,---,---,---,---
+101,Bench Drilling Machine,Number,23800.0,47950.0,23800.0,47950.0,0.0,---,---,---,---
+102,Bench Drilling Machine,Piece,0.0,40000.0,15000.0,18500.0,10000.0,---,---,---,---
+103,Bench Drilling Machine,Piece(s),16000.0,16000.0,16000.0,0.0,0.0,---,---,---,---
+104,Bench Drilling Machine,Unit,4500.0,125000.0,50000.0,10800.0,21000.0,Material,Mild Steel,4500.0,50000.0
+105,Bio Fertilizers,1 liter,280.0,380.0,380.0,280.0,0.0,---,---,---,---
+106,Bio Fertilizers,1 ltr,600.0,600.0,600.0,0.0,0.0,---,---,---,---
+107,Bio Fertilizers,Bag,0.0,1500.0,300.0,400.0,600.0,Color,Brown,400.0,699.0
+108,Bio Fertilizers,Bag,0.0,1500.0,300.0,400.0,600.0,Grade Standard,Bio-Tech Grade,180.0,1500.0
+109,Bio Fertilizers,Bag,0.0,1500.0,300.0,400.0,600.0,Usage/Application,Agriculture,175.0,600.0
+110,Bio Fertilizers,Barrel,450.0,40000.0,450.0,40000.0,460.0,---,---,---,---
+111,Bio Fertilizers,Bottle,20.0,1000.0,100.0,199.0,330.0,State,Liquid,100.0,460.0
+112,Bio Fertilizers,Box,225.0,630.0,600.0,225.0,380.0,---,---,---,---
+113,Bio Fertilizers,Gram,30.0,650.0,650.0,350.0,30.0,---,---,---,---
+114,Bio Fertilizers,KG,120.0,120.0,120.0,0.0,0.0,---,---,---,---
+115,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Brand,Jeypee,8.0,60.0
+116,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Brand,Sovam,11.0,35.0
+117,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Color,Black,4.0,160.0
+118,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Color,Brown,5.0,410.0
+119,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Form,Powder,6.0,1100.0
+120,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Grade Standard,Bio-Tech Grade,8.0,750.0
+121,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Pack Size,50 Kg,6.0,210.0
+122,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Pack Type,Bag,6.0,120.0
+123,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Pack Type,Packet,7.0,180.0
+124,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Pack Type,Plastic Bag,8.0,80.0
+125,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Packaging Size,50 Kg,8.0,1500.0
+126,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Product Type,Organic,6.0,660.0
+127,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Release Type,Quick,30.0,445.0
+128,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,State,Granular,7.0,180.0
+129,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,State,Powder,6.5,2050.0
+130,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Usage,Agriculture,3.25,350.0
+131,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Usage/Application,Agricultural,4.0,65.0
+132,Bio Fertilizers,Kilogram,0.0,1250.0,8.0,10.0,60.0,Usage/Application,Agriculture,6.0,1500.0
+133,Bio Fertilizers,Liter,100.0,625.0,100.0,500.0,600.0,---,---,---,---
+134,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Brand,Orgogrowth,40.0,40.0
+135,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Form,Liquid,38.0,850.0
+136,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Grade Standard,Bio-Tech Grade,40.0,880.0
+137,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Pack Type,Bottle,220.0,600.0
+138,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Pack Type,Plastic Bottle,300.0,640.0
+139,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Packaging Type,Bottle,375.0,850.0
+140,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Product Type,Bio Fertilizer,40.0,40.0
+141,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Product Type,Fertilizer,300.0,800.0
+142,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Release Type,Quick,40.0,600.0
+143,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,State,Liquid,40.0,700.0
+144,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Types Of Biofertilizers,Azotobacter,40.0,500.0
+145,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Usage/Application,Agriculture,40.0,550.0
+146,Bio Fertilizers,Litre,38.0,1050.0,300.0,40.0,350.0,Usage/Application,Soil Application,40.0,350.0
+147,Bio Fertilizers,Metric Ton,5000.0,10500.0,10500.0,5000.0,7800.0,---,---,---,---
+148,Bio Fertilizers,Milliliter,75.0,700.0,75.0,80.0,700.0,---,---,---,---
+149,Bio Fertilizers,Number,50.0,1350.0,50.0,1350.0,780.0,---,---,---,---
+150,Bio Fertilizers,Pack,0.0,1800.0,250.0,400.0,135.0,---,---,---,---
+151,Bio Fertilizers,Packet,0.0,1770.0,420.0,525.0,150.0,Grade Standard,Bio-Tech Grade,420.0,420.0
+152,Bio Fertilizers,Piece,20.0,650.0,125.0,120.0,130.0,---,---,---,---
+153,Bio Fertilizers,Ton,5000.0,15000.0,6000.0,7500.0,9000.0,---,---,---,---
+154,Bio Fertilizers,Unit,120.0,824.0,200.0,525.0,824.0,---,---,---,---
+155,Bio Fertilizers,kg,8.0,200.0,9.0,200.0,8.0,---,---,---,---
+156,Bio Fertilizers,liter,290.0,320.0,320.0,290.0,0.0,---,---,---,---
+157,Bio Fertilizers,tons,6000.0,7500.0,7500.0,6000.0,0.0,---,---,---,---
+158,Biometric Devices,Packet,22000.0,22000.0,22000.0,0.0,0.0,---,---,---,---
+159,Biometric Devices,Piece,1000.0,24000.0,6000.0,5500.0,1999.0,Brand,Realtime,1000.0,8000.0
+160,Biometric Devices,Piece,1000.0,24000.0,6000.0,5500.0,1999.0,Brand,eSSL,5200.0,8500.0
+161,Biometric Devices,Piece,1000.0,24000.0,6000.0,5500.0,1999.0,Reader Type,Fingerprint,1.0,24000.0
+162,Biometric Devices,Piece,1000.0,24000.0,6000.0,5500.0,1999.0,Sensor Type,Optical Sensor,1000.0,10000.0
+163,Biometric Devices,Piece,1000.0,24000.0,6000.0,5500.0,1999.0,Type Of Device,Fingerprint Recognition Devices,2450.0,9500.0
+164,Biometric Devices,Piece,1000.0,24000.0,6000.0,5500.0,1999.0,Type of System,Fingerprint Access Control,1.0,9800.0
+165,Biometric Devices,Unit,0.0,11500.0,5500.0,5000.0,7800.0,---,---,---,---
+166,Bottle Filling Machines,Number,125000.0,1700000.0,1450000.0,1700000.0,135000.0,---,---,---,---
+167,Bottle Filling Machines,Piece,0.0,2050000.0,1450000.0,650000.0,1950000.0,Brand,SHREEJI PROJECTS,1450000.0,1450000.0
+168,Bottle Filling Machines,Piece,0.0,2050000.0,1450000.0,650000.0,1950000.0,Material,SS,60000.0,2050000.0
+169,Bottle Filling Machines,Piece,0.0,2050000.0,1450000.0,650000.0,1950000.0,Material,Stainless Steel,9.0,285000.0
+170,Bottle Filling Machines,Piece,0.0,2050000.0,1450000.0,650000.0,1950000.0,Packaging Type,PET BOTTLE,450000.0,1950000.0
+171,Bottle Filling Machines,Set,35000.0,1700000.0,800000.0,35000.0,975000.0,---,---,---,---
+172,Bottle Filling Machines,Unit,0.0,4000000.0,300000.0,250000.0,1500000.0,Brand,Laxmi Pharma Equipment,300000.0,1500000.0
+173,Bottle Filling Machines,Unit,0.0,4000000.0,300000.0,250000.0,1500000.0,Material,SS,75000.0,1500000.0
+174,Bottle Filling Machines,Unit,0.0,4000000.0,300000.0,250000.0,1500000.0,Material,Stainless Steel,40000.0,2175000.0
+175,Bottle Filling Machines,Unit,0.0,4000000.0,300000.0,250000.0,1500000.0,Packaging Type,PET BOTTLE,650000.0,1950000.0
+176,Bottle Filling Machines,Unit,0.0,4000000.0,300000.0,250000.0,1500000.0,Power Consumption,1-2 HP,115000.0,775000.0
+177,Bottle Filling Machines,Unit,0.0,4000000.0,300000.0,250000.0,1500000.0,Usage/Application,Industrial,250000.0,625000.0
+178,Bucket Elevator,Feet,0.0,10500.0,2000.0,2500.0,1800.0,---,---,---,---
+179,Bucket Elevator,Foot,2000.0,2500.0,2200.0,2000.0,2500.0,---,---,---,---
+180,Bucket Elevator,Meter,14000.0,20000.0,20000.0,14000.0,0.0,---,---,---,---
+181,Bucket Elevator,Number,50000.0,210000.0,210000.0,50000.0,138000.0,---,---,---,---
+182,Bucket Elevator,Piece,0.0,1000000.0,200000.0,240000.0,15000.0,Material,Mild Steel,35000.0,150000.0
+183,Bucket Elevator,Unit,100.0,525000.0,250000.0,100000.0,60000.0,Capacity,1-2 ton,30000.0,470000.0
+184,Bucket Elevator,Unit,100.0,525000.0,250000.0,100000.0,60000.0,Capacity,3-4 ton,10000.0,250000.0
+185,Bucket Elevator,Unit,100.0,525000.0,250000.0,100000.0,60000.0,Material,Mild Steel,1000.0,470000.0
+186,Bucket Elevator,Unit,100.0,525000.0,250000.0,100000.0,60000.0,Operating Height,10 feet,0.0,250000.0
+187,Bucket Elevator,Unit,100.0,525000.0,250000.0,100000.0,60000.0,Structure,Belt Conveyor,60000.0,252000.0
+188,Busbar Systems,Meter,450.0,26000.0,650.0,750.0,2000.0,---,---,---,---
+189,Busbar Systems,Piece,25.0,250.0,190.0,25.0,150.0,Material,Copper,190.0,480.0
+190,Butt Hinges,Kilogram,45.0,100.0,45.0,100.0,96.0,Hinge Type,Butt Hinge,45.0,45.0
+191,Butt Hinges,Kilogram,45.0,100.0,45.0,100.0,96.0,Material,Stainless Steel,45.0,45.0
+192,Butt Hinges,Kilogram,45.0,100.0,45.0,100.0,96.0,Suitable For,Door,45.0,45.0
+193,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Color,Silver,8.0,45.0
+194,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Finish Type,Steel,7.0,27.0
+195,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Hinge Type,Butt Hinge,7.0,150.0
+196,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Material,Stainless Steel,7.0,110.0
+197,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Suitable For,Cabinet,11.5,48.0
+198,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Suitable For,Door,7.0,109.0
+199,Butt Hinges,Piece,0.0,361.67,20.0,50.0,12.0,Suitable For,Window,11.5,130.0
+200,Butt Hinges,Piece(s),38.0,100.0,100.0,38.0,0.0,---,---,---,---
+201,Butt Hinges,Set,110.0,6500.0,6500.0,110.0,0.0,---,---,---,---
+202,Butt Hinges,Unit,13.5,500.0,13.0,13.0,13.0,---,---,---,---
+203,Button Hole Machine,Piece,1.0,520000.0,85000.0,150000.0,520000.0,---,---,---,---
+204,Button Hole Machine,Set,70000.0,380000.0,82000.0,380000.0,86000.0,---,---,---,---
+205,Button Hole Machine,Unit,22000.0,301000.0,86000.0,75000.0,85000.0,---,---,---,---
+206,CNC Milling Machine,Number,621000.0,1200000.0,621000.0,1200000.0,0.0,---,---,---,---
+207,CNC Milling Machine,Piece,1.0,5595000.0,350000.0,1600000.0,2800000.0,Automation Grade,Automatic,10.0,1750000.0
+208,CNC Milling Machine,Unit,250000.0,15000000.0,650000.0,700000.0,15000000.0,Automation Grade,Automatic,400000.0,3000000.0
+209,Camera Lenses,Piece,45.0,1034990.0,85000.0,190.0,300.0,Brand,Sony,18990.0,205990.0
+210,Camera Lenses,Piece,45.0,1034990.0,85000.0,190.0,300.0,Color,Black,45.0,399.0
+211,Camera Lenses,Piece,45.0,1034990.0,85000.0,190.0,300.0,Mount,E Mount,18990.0,158990.0
+212,Camera Lenses,Piece,45.0,1034990.0,85000.0,190.0,300.0,Mount,E mount,20990.0,99990.0
+213,Canon Digital Camera,Piece,46500.0,200000.0,46500.0,200000.0,60000.0,---,---,---,---
+214,Canon Digital Camera,Unit,16000.0,470000.0,30000.0,45000.0,470000.0,Brand,Canon,16000.0,50000.0
+215,Coffee Makers,Piece,0.0,85000.0,16500.0,15900.0,75000.0,---,---,---,---
+216,Coffee Makers,Unit,6200.0,7500.0,6200.0,7000.0,7500.0,---,---,---,---
+217,Color Printers,Box,10800.0,45000.0,45000.0,10800.0,34999.0,---,---,---,---
+218,Color Printers,Number,19500.0,90000.0,90000.0,19500.0,45000.0,---,---,---,---
+219,Color Printers,Piece,2050.0,550000.0,10000.0,30000.0,40000.0,Brand,Ricoh,14000.0,370000.0
+220,Color Printers,Set,100000.0,186000.0,100000.0,186000.0,0.0,---,---,---,---
+221,Color Printers,Unit,7500.0,317000.0,13500.0,43000.0,160000.0,---,---,---,---
+222,Colored Contact Lenses,Box,2600.0,2600.0,2600.0,0.0,0.0,---,---,---,---
+223,Colored Contact Lenses,Pair,199.0,750.0,199.0,750.0,0.0,---,---,---,---
+224,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Brand,VOQA,250.0,250.0
+225,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Color,Black,250.0,250.0
+226,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Color,Blue,250.0,250.0
+227,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Color,Brown,250.0,250.0
+228,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Color,Oxy,250.0,250.0
+229,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Color,White,250.0,250.0
+230,Colored Contact Lenses,Piece,250.0,250.0,250.0,0.0,0.0,Type,Daily Wear Soft,250.0,250.0
+231,Compressor Oil,20' Container,3400.0,3400.0,3400.0,0.0,0.0,---,---,---,---
+232,Compressor Oil,Barrel,29400.0,65000.0,29400.0,65000.0,0.0,---,---,---,---
+233,Compressor Oil,Liter,140.0,200.0,140.0,200.0,0.0,---,---,---,---
+234,Compressor Oil,Litre,1.0,745.0,100.0,350.0,125.0,Compressor Type,Rotary screw,1.0,190.0
+235,Compressor Oil,Litre,1.0,745.0,100.0,350.0,125.0,Packaging Type,Barrel,100.0,145.0
+236,Compressor Oil,Piece,300.0,15475.0,300.0,5000.0,450.0,---,---,---,---
+237,Conveyor Chains,Feet,190.0,600.0,300.0,550.0,600.0,---,---,---,---
+238,Conveyor Chains,Foot,100.0,300.0,100.0,250.0,300.0,---,---,---,---
+239,Conveyor Chains,Meter,100.0,3000.0,1000.0,500.0,600.0,Brand,ICM,590.0,3000.0
+240,Conveyor Chains,Meter,100.0,3000.0,1000.0,500.0,600.0,Material,Mild Steel,100.0,1250.0
+241,Conveyor Chains,Meter,100.0,3000.0,1000.0,500.0,600.0,Roller Type,Double Sprocket Tapered Roller,500.0,3000.0
+242,Conveyor Chains,Piece,100.0,9000.0,450.0,3000.0,1500.0,Finish,Polished,450.0,2000.0
+243,Conveyor Chains,Piece,100.0,9000.0,450.0,3000.0,1500.0,Usage/Application,Industrial,450.0,2000.0
+244,Conveyor Chains,Unit,600.0,150000.0,600.0,150000.0,10000.0,---,---,---,---
+245,Copper Cables,Bundle,23.0,10000.0,23.0,6700.0,10000.0,---,---,---,---
+246,Copper Cables,Meter,0.0,300.0,90.0,35.0,59.0,Is It Armoured,Armoured,50.0,260.0
+247,Copper Cables,Piece,550.0,32880.0,550.0,4740.0,5260.0,Brand,Finolex,1610.0,33970.0
+248,Copper Cables,Unit,60.0,3820.0,3820.0,60.0,365.0,---,---,---,---
+249,Copper Earthing Electrode,Kilogram,285.0,12000.0,510.0,12000.0,285.0,---,---,---,---
+250,Copper Earthing Electrode,Meter,450.0,2000.0,600.0,2000.0,450.0,---,---,---,---
+251,Copper Earthing Electrode,Number,0.0,5000.0,500.0,5000.0,10.0,---,---,---,---
+252,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Brand,ENNOV,10000.0,16000.0
+253,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Brand,Ennov,1000.0,4500.0
+254,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Brand,RAVI EARTHING,1000.0,8000.0
+255,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Color,BROWN,10000.0,16000.0
+256,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Material,Copper,550.0,14000.0
+257,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Material,Galvanized Iron (GI),10000.0,20000.0
+258,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Shape,ROUND,10000.0,20000.0
+259,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Type,ELECTRODE,10000.0,12000.0
+260,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Usage/Application,EARTHING,1000.0,16000.0
+261,Copper Earthing Electrode,Piece,0.0,16000.0,12000.0,14000.0,10000.0,Usage/Application,Earthing,5000.0,16000.0
+262,Copper Earthing Electrode,Piece(s),10000.0,15000.0,15000.0,10000.0,0.0,---,---,---,---
+263,Copper Earthing Electrode,Set,1200.0,5500.0,3200.0,1700.0,3600.0,---,---,---,---
+264,Copper Earthing Electrode,Unit,2500.0,9000.0,3500.0,3000.0,5000.0,Material,Copper,3000.0,5000.0
+265,Desiccant Dryers,Piece,15000.0,300000.0,300000.0,15000.0,49999.0,---,---,---,---
+266,Desiccant Dryers,Unit,15000.0,85000.0,18500.0,15000.0,85000.0,Dryer Technology,Dessicant,15000.0,85000.0
+267,Diesel Air Compressor,Month,25000.0,30000.0,25000.0,30000.0,0.0,---,---,---,---
+268,Diesel Air Compressor,Piece,25000.0,42600.0,42600.0,25000.0,0.0,---,---,---,---
+269,Diesel Air Compressor,Unit,1.0,1180000.0,575000.0,50000.0,150000.0,Compressor Type,Air Compressor,575000.0,910000.0
+270,Drum Mixers,Piece,17000.0,592000.0,30000.0,500000.0,592000.0,---,---,---,---
+271,Drum Mixers,Unit,22000.0,250000.0,65000.0,150000.0,250000.0,---,---,---,---
+272,Drum Mixers,nos,4850000.0,4850000.0,4850000.0,0.0,0.0,---,---,---,---
+273,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Color,Blue,175.0,250.0
+274,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Count,30,60.0,200.0
+275,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Lustre,Bright,120.0,280.0
+276,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Lustre,Semi-Dull,99.0,250.0
+277,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Material,Polyester,99.0,280.0
+278,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,No. Of Ply,2,60.0,120.0
+279,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,No. of ply,2 ply,170.0,220.0
+280,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Pattern,Dyed,60.0,250.0
+281,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Pattern,Plain,75.0,180.0
+282,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Technique,Ring Spun,100.0,250.0
+283,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Usage/Application,Textile Industries,72.0,132.0
+284,Dyed Polyester Yarn,Kilogram,60.0,400.0,120.0,250.0,205.0,Usage/Application,Textile Industry,100.0,200.0
+285,Dyed Polyester Yarn,Kilogram Onwards,134.0,134.0,134.0,0.0,0.0,---,---,---,---
+286,Dyed Polyester Yarn,Packet,27.0,27.0,27.0,0.0,0.0,---,---,---,---
+287,Dyed Polyester Yarn,Piece,25.0,499.0,499.0,25.0,124.0,---,---,---,---
+288,Dyed Polyester Yarn,Unit,82.0,82.0,82.0,0.0,0.0,---,---,---,---
+289,Eco Friendly Disposable Plates,Box,19.0,5700.0,5700.0,19.0,3000.0,---,---,---,---
+290,Eco Friendly Disposable Plates,Bundle,30.0,30.0,30.0,0.0,0.0,---,---,---,---
+291,Eco Friendly Disposable Plates,Packet,0.0,350.0,22.0,40.0,350.0,---,---,---,---
+292,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Brand,Chuk,2.55,7.75
+293,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Brand,Ecoware,2.1,6.95
+294,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Color,Brown,2.0,8.25
+295,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Color,White,2.1,7.25
+296,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Features,Light Weight,3.0,3.0
+297,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Material,Areca Leaf,2.0,9.0
+298,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Material,Bagasse,2.45,8.25
+299,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Material,Paper,0.3,4.0
+300,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Shape,Rectangular,4.0,10.0
+301,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Shape,Round,1.64,7.8
+302,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Shape,Square,2.5,6.5
+303,Eco Friendly Disposable Plates,Piece,0.0,13.0,2.0,5.0,3.0,Usage/Application,Event and Party Supplies,1.0,9.0
+304,Eco Friendly Disposable Plates,Plate,2.0,3.9,2.0,3.0,3.0,---,---,---,---
+305,Eco Friendly Disposable Plates,Unit,3.0,8.0,3.0,6.0,8.0,---,---,---,---
+306,Eco Friendly Disposable Plates,per pcs,4.0,4.0,4.0,0.0,0.0,---,---,---,---
+307,Electric Industrial Oven,Number,95000.0,350000.0,115000.0,350000.0,95000.0,---,---,---,---
+308,Electric Industrial Oven,Piece,0.0,350000.0,100000.0,40000.0,80000.0,Display Type,Digital,100000.0,100000.0
+309,Electric Industrial Oven,Piece,0.0,350000.0,100000.0,40000.0,80000.0,Power Source,Electric,15000.0,300000.0
+310,Electric Industrial Oven,Piece,0.0,350000.0,100000.0,40000.0,80000.0,Type,Cabinet Ovens,40000.0,80000.0
+311,Electric Industrial Oven,Unit,0.0,600000.0,300000.0,50000.0,115000.0,Material,Mild Steel,200000.0,350000.0
+312,Electric Industrial Oven,Unit,0.0,600000.0,300000.0,50000.0,115000.0,Max Temperature,100-200 deg. Celsius,60000.0,350000.0
+313,Electric Industrial Oven,Unit,0.0,600000.0,300000.0,50000.0,115000.0,Power Source,Electric,10000.0,445000.0
+314,Electric Irons,Carton,380.0,380.0,380.0,0.0,0.0,---,---,---,---
+315,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Brand,Bajaj,400.0,498.0
+316,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Brand,Usha,250.0,775.0
+317,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Brand,any,250.0,250.0
+318,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Color,White,295.0,650.0
+319,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Features,Automatic Dry Iron,190.0,195.0
+320,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Model Name,any,250.0,250.0
+321,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Pack Type,1,190.0,260.0
+322,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Pack Type,Box,0.0,2000.0
+323,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Pack Type,any,250.0,250.0
+324,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Power,1000 W,350.0,1150.0
+325,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Power,750W,190.0,295.0
+326,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Type,Dry Iron,190.0,650.0
+327,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Type,Electric Iron,350.0,1750.0
+328,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Type,any,250.0,250.0
+329,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Usage/Application,Cloth Iron,225.0,330.0
+330,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Usage/Application,Daily Use,190.0,260.0
+331,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Usage/Application,Domestic,420.0,775.0
+332,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Usage/Application,any,250.0,250.0
+333,Electric Irons,Piece,0.0,2000.0,250.0,350.0,195.0,Weight,any,250.0,250.0
+334,Electric Irons,Unit,25.0,1500.0,25.0,350.0,190.0,---,---,---,---
+335,Embroidery Machine,No,20000.0,200000.0,200000.0,20000.0,0.0,---,---,---,---
+336,Embroidery Machine,Piece,3600.0,2000000.0,450000.0,95000.0,120000.0,---,---,---,---
+337,Embroidery Machine,Set,100.0,1500000.0,370000.0,525000.0,500.0,No. Of Heads,Single Head,500.0,450000.0
+338,Embroidery Machine,Set,100.0,1500000.0,370000.0,525000.0,500.0,Types Of Embroidery Machine,Sequin Machine,100.0,1500000.0
+339,Embroidery Machine,Unit,250000.0,2500000.0,2000000.0,1000000.0,250000.0,---,---,---,---
+340,End Loader,Piece,30000.0,175000.0,30000.0,175000.0,130000.0,Condition,Brand New,150000.0,175000.0
+341,End Loader,Piece,30000.0,175000.0,30000.0,175000.0,130000.0,Type,Wheel Loader,130000.0,175000.0
+342,End Loader,Unit,170000.0,1350000.0,180000.0,205000.0,255000.0,Condition,Brand New,190000.0,1875000.0
+343,Fire Safety Wear,Meter,600.0,600.0,600.0,0.0,0.0,---,---,---,---
+344,Fire Safety Wear,No(s),1000.0,1450.0,1450.0,1000.0,0.0,---,---,---,---
+345,Fire Safety Wear,Piece,650.0,57736.0,55000.0,50000.0,57736.0,Available Size,10,10000.0,55000.0
+346,Fire Safety Wear,Piece,650.0,57736.0,55000.0,50000.0,57736.0,Color,Red,1100.0,3500.0
+347,Fire Safety Wear,Piece,650.0,57736.0,55000.0,50000.0,57736.0,Size,All Sizes,1400.0,57736.0
+348,Fire Safety Wear,Set,10000.0,70000.0,70000.0,10000.0,12000.0,---,---,---,---
+349,Fire Safety Wear,Unit,4500.0,25000.0,4500.0,7500.0,25000.0,---,---,---,---
+350,Fleece Fabrics,Kilogram,120.0,650.0,350.0,250.0,200.0,Brand,Raghav Worldwide,150.0,260.0
+351,Fleece Fabrics,Kilogram,120.0,650.0,350.0,250.0,200.0,Fabric,Cotton,215.0,400.0
+352,Fleece Fabrics,Kilogram,120.0,650.0,350.0,250.0,200.0,Fabric,Fleece,200.0,340.0
+353,Fleece Fabrics,Kilogram,120.0,650.0,350.0,250.0,200.0,GSM,250-300,170.0,360.0
+354,Fleece Fabrics,Kilogram,120.0,650.0,350.0,250.0,200.0,Pattern,Plain,175.0,350.0
+355,Fleece Fabrics,Meter,100.0,300.0,300.0,100.0,160.0,---,---,---,---
+356,Food Processor,Piece,800.0,10994.0,5800.0,3500.0,800.0,---,---,---,---
+357,Food Processor,Piece(s),6500.0,6500.0,6500.0,0.0,0.0,---,---,---,---
+358,Food Processor,Set,350.0,7500.0,7500.0,350.0,0.0,---,---,---,---
+359,Granules Packing Machine,Piece,39000.0,400000.0,100000.0,120000.0,125000.0,---,---,---,---
+360,Granules Packing Machine,Set,300000.0,750000.0,350000.0,750000.0,300000.0,---,---,---,---
+361,Granules Packing Machine,Unit,90000.0,600000.0,250000.0,350000.0,150000.0,Automation Grade,Automatic,90000.0,400000.0
+362,HMI Touch Panel,Box,27000.0,80000.0,27000.0,40000.0,80000.0,---,---,---,---
+363,HMI Touch Panel,Number,0.0,119252.0,7500.0,15000.0,17500.0,---,---,---,---
+364,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Brand,Delta,6500.0,75075.0
+365,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Brand,Mitsubishi,7000.0,29500.0
+366,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Brand,Siemens,9000.0,125000.0
+367,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Brand,Weintek,10000.0,15000.0
+368,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Display Type,LCD,1500.0,21900.0
+369,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Display Type,TFT,10000.0,125000.0
+370,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Power,24+/-20% VDC,10000.0,12000.0
+371,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Product Type,HMI,9116.0,92950.0
+372,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Screen Size,"7""",10000.0,18000.0
+373,HMI Touch Panel,Piece,0.0,95000.0,10000.0,15000.0,12000.0,Type,Fully Automatic,1000.0,40000.0
+374,HMI Touch Panel,Unit,0.0,75020.0,10000.0,15000.0,12000.0,Brand,Delta,1000.0,15000.0
+375,HMI Touch Panel,Unit,0.0,75020.0,10000.0,15000.0,12000.0,Brand,Siemens,4500.0,50000.0
+376,HMI Touch Panel,Unit,0.0,75020.0,10000.0,15000.0,12000.0,Display Type,LCD,7500.0,45000.0
+377,HMI Touch Panel,Unit,0.0,75020.0,10000.0,15000.0,12000.0,Operating System,Windows 8,7500.0,33600.0
+378,HMI Touch Panel,Unit,0.0,75020.0,10000.0,15000.0,12000.0,Type,Fully Automatic,9000.0,33600.0
+379,Hair Removal Laser Machine,Box,11000.0,400000.0,11000.0,400000.0,0.0,---,---,---,---
+380,Hair Removal Laser Machine,Piece,0.0,1500000.0,210000.0,31000.0,40000.0,Usage,Professional,1.0,900000.0
+381,Hair Removal Laser Machine,Set,173000.0,173000.0,173000.0,0.0,0.0,---,---,---,---
+382,Hair Removal Laser Machine,Unit,8.5,1000000.0,1000000.0,450000.0,750000.0,---,---,---,---
+383,Hand Operated Hydraulic Press,Piece,25000.0,100000.0,28500.0,42000.0,45000.0,---,---,---,---
+384,Hand Operated Hydraulic Press,Unit,1.0,350000.0,140000.0,1500.0,36500.0,Automatic Grade,Manual,36500.0,140000.0
+385,Hand Operated Hydraulic Press,Unit,1.0,350000.0,140000.0,1500.0,36500.0,Material,MS,55000.0,215000.0
+386,Heat Resistant Conveyor Belt,Meter,30.0,2600.0,600.0,1500.0,1200.0,---,---,---,---
+387,Heat Resistant Conveyor Belt,Piece,700.0,1200.0,700.0,1200.0,0.0,---,---,---,---
+388,Heat Resistant Conveyor Belt,Square Meter,700.0,2800.0,700.0,2800.0,1300.0,Belt Thickness,0.95 - 1 mm,700.0,700.0
+389,High Pressure Air Compressor,1pc,28500.0,28500.0,28500.0,0.0,0.0,---,---,---,---
+390,High Pressure Air Compressor,Number,20000.0,225000.0,50000.0,225000.0,95000.0,---,---,---,---
+391,High Pressure Air Compressor,Piece,14000.0,450000.0,150000.0,100000.0,160000.0,---,---,---,---
+392,High Pressure Air Compressor,Set,65000.0,165000.0,165000.0,65000.0,0.0,---,---,---,---
+393,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Compressor Technology,Reciprocating Compressor,45000.0,300000.0
+394,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Compressor Type,Air Compressor,16295.0,360000.0
+395,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Cooling Method,Air Cooled,25000.0,360000.0
+396,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Horse Power,5 HP,10000.0,600000.0
+397,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Maximum Flow Rate,21 - 50 cfm,30000.0,125000.0
+398,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Number of Compression Stages,Two Stage,10000.0,650000.0
+399,High Pressure Air Compressor,Unit,10000.0,775000.0,60000.0,240000.0,600000.0,Power Source,AC Three Phase,30000.0,300000.0
+400,Hydraulic Bending Machine,Piece,220000.0,1000000.0,350000.0,220000.0,470000.0,---,---,---,---
+401,Hydraulic Bending Machine,Unit,50000.0,50000.0,50000.0,0.0,0.0,---,---,---,---
+402,Jar Filling Machine,Piece,5000.0,900000.0,45000.0,12500.0,100000.0,---,---,---,---
+403,Jar Filling Machine,Unit,200000.0,1200000.0,650000.0,200000.0,950000.0,---,---,---,---
+404,Jindal GI Pipe,Kilogram,46.0,95.0,48.0,61.0,61.0,Brand,Jindal,46.0,75.0
+405,Jindal GI Pipe,Kilogram,46.0,95.0,48.0,61.0,61.0,Material,GI,48.0,50.0
+406,Jindal GI Pipe,Kilogram,46.0,95.0,48.0,61.0,61.0,Unit Length,6m,46.0,78.0
+407,Jindal GI Pipe,Meter,20.0,140.0,77.0,140.0,20.0,---,---,---,---
+408,Jindal GI Pipe,Piece,180.0,1000.0,1000.0,180.0,747.0,---,---,---,---
+409,Jindal GI Pipe,Ton,32500.0,32500.0,32500.0,0.0,0.0,---,---,---,---
+410,Jindal GI Pipe,kg,45.0,45.0,45.0,0.0,0.0,---,---,---,---
+411,Juicer Mixer Grinder,Box,699.0,2100.0,699.0,2100.0,0.0,---,---,---,---
+412,Juicer Mixer Grinder,Carton,1200.0,1200.0,1200.0,0.0,0.0,---,---,---,---
+413,Juicer Mixer Grinder,ONE,1400.0,1450.0,1400.0,1450.0,0.0,---,---,---,---
+414,Juicer Mixer Grinder,PIECES,1500.0,1500.0,1500.0,0.0,0.0,---,---,---,---
+415,Juicer Mixer Grinder,Pack,2600.0,5990.0,5990.0,2600.0,3405.0,---,---,---,---
+416,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Brand,Cello,3395.0,4395.0
+417,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Brand,Usha,4780.0,4780.0
+418,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Color,White,1650.0,4850.0
+419,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Color,White & Red,4780.0,4780.0
+420,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Grinder Type,Food Mixer,870.0,3399.0
+421,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Grinder Type,Juicers,1.0,2650.0
+422,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Grinder Type,Mixer Grinder,4780.0,4780.0
+423,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Material,Plastic,310.0,1000.0
+424,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Wattage,300 W - 500 W,750.0,2708.0
+425,Juicer Mixer Grinder,Piece,1.0,8000.0,4780.0,750.0,2100.0,Wattage,501 W - 750 W,1080.0,2950.0
+426,Juicer Mixer Grinder,Set,825.0,4499.0,1400.0,4499.0,825.0,---,---,---,---
+427,Juicer Mixer Grinder,Unit,199.0,5979.0,199.0,380.0,3300.0,---,---,---,---
+428,Knitted Yarn,Kilogram,0.0,850.0,250.0,260.0,850.0,Color,Customised,180.0,300.0
+429,Knitted Yarn,Piece,205.0,499.0,205.0,499.0,0.0,---,---,---,---
+430,Ladies Palazzo,Bag,190.0,850.0,190.0,850.0,0.0,---,---,---,---
+431,Ladies Palazzo,Box,105.0,450.0,105.0,450.0,110.0,---,---,---,---
+432,Ladies Palazzo,Meter,110.0,125.0,125.0,110.0,0.0,---,---,---,---
+433,Ladies Palazzo,Number,130.0,1900.0,450.0,130.0,1900.0,---,---,---,---
+434,Ladies Palazzo,Packet,290.0,650.0,650.0,290.0,299.0,---,---,---,---
+435,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Appearance,CASUAL,150.0,300.0
+436,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Appearance,PARTY WEAR,240.0,370.0
+437,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Appearance,casual and party wear,550.0,650.0
+438,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,20INCH,150.0,150.0
+439,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,28,249.0,370.0
+440,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,28INCH,150.0,300.0
+441,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,Chicken,189.0,209.0
+442,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,PALAZZO,150.0,320.0
+443,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,plazo,525.0,650.0
+444,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Bottom,yes,159.0,220.0
+445,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,7 season's,525.0,650.0
+446,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,D.S. Fashion,350.0,350.0
+447,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,RICHLOOK FASHION,100.0,300.0
+448,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,RS Creations,230.0,470.0
+449,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,VASTRAA FUSION,159.0,209.0
+450,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,Vastraa Fusion,159.0,209.0
+451,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Brand,xuric,230.0,370.0
+452,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,20colors,150.0,150.0
+453,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,All,50.0,260.0
+454,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,All colors,370.0,370.0
+455,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Black,75.0,650.0
+456,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Blue,95.0,399.0
+457,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Golden,135.0,395.0
+458,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Green,150.0,475.0
+459,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,MULTI,150.0,495.0
+460,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Multi,160.0,250.0
+461,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,OFF WHITE,300.0,370.0
+462,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Orange,150.0,320.0
+463,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Pink,115.0,750.0
+464,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Red,115.0,450.0
+465,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,White,140.0,350.0
+466,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,Yellow,150.0,270.0
+467,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Color,all,170.0,399.0
+468,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Design,BOMBAY,270.0,370.0
+469,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Design,WESTERN,225.0,300.0
+470,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Fabric,Cotton,120.0,700.0
+471,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Fabric,Lycra Cotton,99.0,299.0
+472,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Fabric,RAYON,50.0,325.0
+473,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Fabric,Rayon,110.0,320.0
+474,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Fabric,rayon,550.0,650.0
+475,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Material,Cotton,130.0,350.0
+476,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Material,Rayon,140.0,300.0
+477,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Material,rayon,550.0,650.0
+478,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Occasion,Casual Wear,99.0,650.0
+479,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Occasion,Party Wear,50.0,825.0
+480,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Pattern,Embroidered,220.0,725.0
+481,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Pattern,Plain,0.0,650.0
+482,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Pattern,Printed,50.0,825.0
+483,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Product Type,COTTON,240.0,300.0
+484,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Product Type,Cotton,320.0,320.0
+485,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Product Type,Palazzo,160.0,350.0
+486,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Product Type,RAYON,150.0,250.0
+487,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,All,230.0,250.0
+488,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,All Sizes,300.0,900.0
+489,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,FREE SIZE,100.0,300.0
+490,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,Free,100.0,450.0
+491,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,Free Size,120.0,300.0
+492,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,Free size,125.0,370.0
+493,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,"M,L,XL",525.0,650.0
+494,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,M-XXL,140.0,260.0
+495,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,"Small,Medium,Large and XXL",150.0,150.0
+496,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,free,90.0,220.0
+497,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Size,free size,125.0,150.0
+498,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Sleeve Type,3/4th Sleeve,480.0,799.0
+499,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Style,INDIAN,240.0,370.0
+500,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Style,Palazzo,130.0,399.0
+501,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Style,Palazzo Pants,0.0,650.0
+502,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Style,Western,159.0,209.0
+503,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Suit Style,Straight,285.0,900.0
+504,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Waist Size,26-32 inch,299.0,425.0
+505,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Waist Size,50,230.0,370.0
+506,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Waist Size,All Sizes,140.0,650.0
+507,Ladies Palazzo,Piece,65.0,750.0,150.0,250.0,300.0,Wash Care,Machine wash,449.0,740.0
+508,Ladies Palazzo,Set,415.0,1650.0,1650.0,479.0,795.0,---,---,---,---
+509,Ladies Palazzo,Unit,130.0,1450.0,160.0,350.0,500.0,---,---,---,---
+510,Ladies Palazzo,piece,140.0,345.0,345.0,140.0,0.0,---,---,---,---
+511,Leather Flash Drive,Piece,140.0,610.0,350.0,290.0,600.0,Material,Leather,348.0,600.0
+512,Lining Fabric,Kilogram,205.0,280.0,210.0,280.0,205.0,---,---,---,---
+513,Lining Fabric,Meter,12.5,177.0,26.0,20.0,28.0,Type,Cotton,12.5,44.0
+514,Lining Fabric,Meter,12.5,177.0,26.0,20.0,28.0,Width,"35-36""",12.5,26.0
+515,Liquid Filling Machine,Number,70000.0,1050000.0,220000.0,135000.0,300000.0,---,---,---,---
+516,Liquid Filling Machine,Piece,0.0,1800000.0,50000.0,75000.0,125000.0,Brand,Multipack Machines,15.0,275000.0
+517,Liquid Filling Machine,Piece,0.0,1800000.0,50000.0,75000.0,125000.0,Driven Type,Electric,5000.0,125000.0
+518,Liquid Filling Machine,Piece,0.0,1800000.0,50000.0,75000.0,125000.0,Machine Type,Automatic,47000.0,800000.0
+519,Liquid Filling Machine,Piece,0.0,1800000.0,50000.0,75000.0,125000.0,Machine Type,Semi-Automatic,22000.0,120000.0
+520,Liquid Filling Machine,Piece,0.0,1800000.0,50000.0,75000.0,125000.0,Material,SS,70000.0,400000.0
+521,Liquid Filling Machine,Piece,0.0,1800000.0,50000.0,75000.0,125000.0,Material,Stainless Steel,15.0,800000.0
+522,Liquid Filling Machine,Set,35000.0,2500000.0,150000.0,131000.0,210000.0,---,---,---,---
+523,Liquid Filling Machine,Unit,0.0,1500000.0,75000.0,89000.0,800000.0,Capacity,0-500 pouch per hour,40000.0,178000.0
+524,Liquid Filling Machine,Unit,0.0,1500000.0,75000.0,89000.0,800000.0,Driven Type,Electric,50000.0,350000.0
+525,Liquid Filling Machine,Unit,0.0,1500000.0,75000.0,89000.0,800000.0,Machine Type,Semi-Automatic,28000.0,89000.0
+526,Liquid Filling Machine,Unit,0.0,1500000.0,75000.0,89000.0,800000.0,Material,Stainless Steel,40000.0,850000.0
+527,Liquid Filling Machine,unit,395000.0,395000.0,395000.0,0.0,0.0,---,---,---,---
+528,Marble God Statue,Feet,1000.0,21000.0,15000.0,1000.0,21000.0,---,---,---,---
+529,Marble God Statue,Foot,3500.0,40000.0,9000.0,10000.0,40000.0,---,---,---,---
+530,Marble God Statue,Inch,800.0,3200.0,800.0,900.0,2000.0,---,---,---,---
+531,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Brand,girdhars,15000.0,18000.0
+532,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Color,Multicolor,15000.0,21000.0
+533,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Color,any,16000.0,18000.0
+534,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Material,marble,15000.0,18000.0
+535,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Pattern,any,16000.0,18000.0
+536,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Religious,any,16000.0,18000.0
+537,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Size,1 feet,16000.0,18000.0
+538,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Size,1feet,18000.0,18000.0
+539,Marble God Statue,Pair,0.0,40000.0,18000.0,11000.0,16000.0,Usage/Application,temple and house,16000.0,18000.0
+540,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Brand,GIRDHARS,11000.0,25000.0
+541,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Brand,Prabhat,100000.0,100000.0
+542,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Brand,Virat Moorti,21000.0,21000.0
+543,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Brand,girdhars,7000.0,18000.0
+544,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,Black,5000.0,35000.0
+545,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,MULTI COLOR,11000.0,18000.0
+546,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,Multicolor,0.0,90000.0
+547,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,White,1400.0,200000.0
+548,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,any,7000.0,21000.0
+549,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,multi color,7000.0,20000.0
+550,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Color,white,11500.0,25000.0
+551,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Design Type,ANY,11000.0,25000.0
+552,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Idol,ANY,11000.0,25000.0
+553,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Marble Type,N / A,300.0,7500.0
+554,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Marble Type,white marble,11000.0,25000.0
+555,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Material,MARBLE,7000.0,25000.0
+556,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Material,Marble,6500.0,90000.0
+557,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Material,Pure Makrana Sangemarmar Marble,100000.0,100000.0
+558,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Material,marble,7000.0,30000.0
+559,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Pattern,ANY,11000.0,18000.0
+560,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Pattern,Marble,300.0,2500.0
+561,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Pattern,Painted,15000.0,60000.0
+562,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Pattern,any,7000.0,25000.0
+563,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Product Code,N / A,300.0,2500.0
+564,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Product Code,any,11000.0,25000.0
+565,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Religious,ANY,7000.0,18000.0
+566,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Religious,Hindu,1400.0,100000.0
+567,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Religious,N / A,300.0,7500.0
+568,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Religious,Yes,5250.0,50000.0
+569,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Religious,any,7000.0,25000.0
+570,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,1 FEET,7000.0,18000.0
+571,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,1 feet,7000.0,18000.0
+572,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,12 Inch,7000.0,13000.0
+573,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,1feet,7000.0,16000.0
+574,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,ANY,11000.0,18000.0
+575,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,Min. 12 Inch to 150 Inch.,15000.0,25000.0
+576,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,START SIZE 1 FEET TO 8 FEET MORE,16000.0,25000.0
+577,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Size,any,8000.0,9000.0
+578,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Usage/Application,TEMPLE AND HOUSE,7000.0,18000.0
+579,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Usage/Application,Temple,9000.0,22000.0
+580,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Usage/Application,"Temple,Home",9000.0,25000.0
+581,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Usage/Application,Worship,4500.0,100000.0
+582,Marble God Statue,Piece,0.0,100000.0,11000.0,18000.0,25000.0,Usage/Application,temple and house,7000.0,18000.0
+583,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Color,MULTI COLOR,16000.0,25000.0
+584,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Pattern,ANY,25000.0,26000.0
+585,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Pattern,any,15000.0,25000.0
+586,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Religious,ANY,25000.0,26000.0
+587,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Size,1 FEET,16000.0,25000.0
+588,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Usage/Application,TEMPLE AND HOUSE,16000.0,25000.0
+589,Marble God Statue,Set,11000.0,35000.0,25000.0,15000.0,11000.0,Usage/Application,temple and house,15000.0,25000.0
+590,Marble God Statue,Unit,1000.0,35000.0,16000.0,1000.0,34500.0,---,---,---,---
+591,Mens Capri,Piece,0.0,400.0,125.0,400.0,150.0,Fabric,Cotton,125.0,400.0
+592,Mens Capri,Piece,0.0,400.0,125.0,400.0,150.0,Material,Cotton,95.0,400.0
+593,Mens Capri,Piece,0.0,400.0,125.0,400.0,150.0,Occasion,Casual,115.0,220.0
+594,Mens Capri,Piece,0.0,400.0,125.0,400.0,150.0,Size,All Sizes,125.0,195.0
+595,Mens Capri,Piece,0.0,400.0,125.0,400.0,150.0,Type,Casual,95.0,400.0
+596,Mineral Water Filling Machine,Number,200000.0,750000.0,200000.0,650000.0,750000.0,---,---,---,---
+597,Mineral Water Filling Machine,Piece,5000.0,1650000.0,950000.0,650000.0,1450000.0,Packaging Type,PET BOTTLE,650000.0,1450000.0
+598,Mineral Water Filling Machine,Set,950000.0,1700000.0,950000.0,1350000.0,1700000.0,---,---,---,---
+599,Mineral Water Filling Machine,Unit,280000.0,7500000.0,1650000.0,1000000.0,650000.0,---,---,---,---
+600,Optical Fiber,Meter,4.0,34.0,6.0,6.0,6.0,Packaging type,Roll,4.0,19.0
+601,Optical Fiber,Meter,4.0,34.0,6.0,6.0,6.0,Protection Type,Shielded,4.0,19.0
+602,Optical Fiber,Piece,1400.0,190000.0,190000.0,1400.0,0.0,---,---,---,---
+603,Optical Fiber,Unit,14.0,567.0,14.0,100.0,567.0,---,---,---,---
+604,PVC Cables,Box,360.0,490.0,360.0,490.0,0.0,---,---,---,---
+605,PVC Cables,Bundle,872.0,1333.0,1333.0,872.0,0.0,---,---,---,---
+606,PVC Cables,Meter,0.2,126.0,5.0,30.0,20.0,Color,Black,6.0,30.0
+607,PVC Cables,Meter(s),12.0,500.0,500.0,12.0,50.0,---,---,---,---
+608,PVC Cables,Piece,10.0,4900.0,279.0,10.0,720.0,---,---,---,---
+609,PVC Cables,Roll,125.0,1500.0,224.0,1500.0,125.0,---,---,---,---
+610,PVC Cables,Unit,150.0,3050.0,2552.0,150.0,3050.0,---,---,---,---
+611,PVC Roofing Sheet,Kilogram,60.0,80.0,60.0,70.0,80.0,---,---,---,---
+612,PVC Roofing Sheet,Meter,100.0,250.0,250.0,120.0,100.0,---,---,---,---
+613,PVC Roofing Sheet,Square Feet,12.0,250.0,55.0,50.0,60.0,Material,PVC,20.0,250.0
+614,PVC Roofing Sheet,Square Feet,12.0,250.0,55.0,50.0,60.0,Surface Treatment,Coated,12.0,60.0
+615,PVC Roofing Sheet,Square Feet,12.0,250.0,55.0,50.0,60.0,Surface Treatment,Color Coated,20.0,55.0
+616,PVC Roofing Sheet,Square Meter,160.0,550.0,160.0,450.0,550.0,Material,PVC,160.0,450.0
+617,Pneumatic Impact Wrenches,Number,9800.0,12000.0,9800.0,12000.0,10000.0,---,---,---,---
+618,Pneumatic Impact Wrenches,Piece,0.0,50000.0,9000.0,22000.0,5000.0,---,---,---,---
+619,Pneumatic Impact Wrenches,Unit,6500.0,19000.0,6500.0,11500.0,9500.0,---,---,---,---
+620,Polyester Filament Yarn,Kilogram,2.25,360.0,175.0,145.0,200.0,Pattern,Dyed,134.0,280.0
+621,Polyester Filament Yarn,kg,1.7,1.7,1.0,1.0,1.0,---,---,---,---
+622,Polyester Textured Yarn,Box,101.0,200.0,200.0,101.0,0.0,---,---,---,---
+623,Polyester Textured Yarn,Kilogram,2.56,200.0,100.0,160.0,165.0,Pattern,Dyed,100.0,165.0
+624,Polyester Textured Yarn,Kilogram(s),90.0,90.0,90.0,0.0,0.0,---,---,---,---
+625,Polyester Thread,Box,0.0,450.0,165.0,180.0,110.0,Material,Polyester,44.0,350.0
+626,Polyester Thread,Box,0.0,450.0,165.0,180.0,110.0,Pack type,Box,92.0,180.0
+627,Polyester Thread,Box,0.0,450.0,165.0,180.0,110.0,Pattern,Dyed,165.0,180.0
+628,Polyester Thread,Box,0.0,450.0,165.0,180.0,110.0,Ply,2 ply,92.0,225.0
+629,Polyester Thread,Kilogram,149.0,350.0,250.0,350.0,150.0,Material,Polyester,150.0,350.0
+630,Polyester Thread,Meter,38.0,80.0,80.0,38.0,0.0,---,---,---,---
+631,Polyester Thread,Packet,57.0,240.0,155.0,70.0,57.0,---,---,---,---
+632,Polyester Thread,Piece,17.0,100.0,45.0,40.0,84.0,Material,Polyester,32.0,84.0
+633,Polyester Thread,Piece,17.0,100.0,45.0,40.0,84.0,Pack type,Reel,40.0,80.0
+634,Polyester Thread,Piece,17.0,100.0,45.0,40.0,84.0,Yarn Type,Spun,40.0,82.0
+635,Polyester Thread,Roll,45.0,400.0,45.0,400.0,250.0,---,---,---,---
+636,Polyester Thread,Unit,24.0,100.0,24.0,95.0,100.0,---,---,---,---
+637,Polyester Thread,box,290.0,290.0,290.0,0.0,0.0,---,---,---,---
+638,Porcelain Tiles,Box,0.0,660.0,280.0,300.0,265.0,Brand,Marvel,280.0,280.0
+639,Porcelain Tiles,Box,0.0,660.0,280.0,300.0,265.0,Color,Multicolour,280.0,300.0
+640,Porcelain Tiles,Box,0.0,660.0,280.0,300.0,265.0,Finish,Gloss,200.0,400.0
+641,Porcelain Tiles,Box,0.0,660.0,280.0,300.0,265.0,Size,60 * 60 In cm,280.0,300.0
+642,Porcelain Tiles,Box,0.0,660.0,280.0,300.0,265.0,Thickness,5-10 mm,280.0,300.0
+643,Porcelain Tiles,Box,0.0,660.0,280.0,300.0,265.0,Thickness,8 - 10 mm,200.0,300.0
+644,Porcelain Tiles,Square Feet,20.0,320.0,80.0,60.0,20.0,Brand,porcelain,80.0,80.0
+645,Porcelain Tiles,Square Feet,20.0,320.0,80.0,60.0,20.0,Finish,Wall,80.0,80.0
+646,Porcelain Tiles,Square Feet,20.0,320.0,80.0,60.0,20.0,Series,platina series,80.0,80.0
+647,Porcelain Tiles,Square Feet,20.0,320.0,80.0,60.0,20.0,Size,1200x600mm,80.0,80.0
+648,Porcelain Tiles,Square Feet,20.0,320.0,80.0,60.0,20.0,Thickness,4.8mm,80.0,80.0
+649,Porcelain Tiles,Square Meter,3.4,21.0,3.0,3.0,3.0,Brand,JET GRANITO,3.5,4.2
+650,Porcelain Tiles,Square Meter,3.4,21.0,3.0,3.0,3.0,Finish,Gloss,3.4,5.6
+651,Porcelain Tiles,Square Meter,3.4,21.0,3.0,3.0,3.0,Size,Medium,4.2,4.4
+652,Porcelain Tiles,Square Meter,3.4,21.0,3.0,3.0,3.0,Thickness,8 - 10 mm,3.5,7.0
+653,Porcelain Tiles,Unit,80.0,225.0,80.0,225.0,0.0,---,---,---,---
+654,Porcelain Tiles,per square feet,80.0,80.0,80.0,0.0,0.0,---,---,---,---
+655,Pouch Filling Machine,Piece,39000.0,290000.0,120000.0,170000.0,115000.0,---,---,---,---
+656,Pouch Filling Machine,Set,165000.0,196800.0,196800.0,165000.0,195000.0,---,---,---,---
+657,Pouch Filling Machine,Unit,35000.0,340000.0,280000.0,175000.0,178000.0,Capacity,0-500 pouch per hour,35000.0,285000.0
+658,Pouch Filling Machine,Unit,35000.0,340000.0,280000.0,175000.0,178000.0,Voltage,220 - 240 V,35000.0,178000.0
+659,Powder Filling Machine,Number,150000.0,1050000.0,275000.0,210000.0,1050000.0,---,---,---,---
+660,Powder Filling Machine,Piece,39000.0,1000000.0,350000.0,475500.0,500000.0,Material,Stainless Steel,39000.0,650000.0
+661,Powder Filling Machine,Set,135000.0,250000.0,150000.0,135000.0,200000.0,---,---,---,---
+662,Powder Filling Machine,Unit,125000.0,800000.0,150000.0,350000.0,225000.0,Material,Stainless Steel,130000.0,800000.0
+663,Refrigeration Compressors,Number,12000.0,12000.0,12000.0,0.0,0.0,---,---,---,---
+664,Refrigeration Compressors,Piece,0.0,115000.0,4000.0,2399.0,6000.0,Brand,Bock,75000.0,115000.0
+665,Refrigeration Compressors,Unit,5000.0,3000000.0,5000.0,5200.0,25000.0,---,---,---,---
+666,Roller Conveyor,Meter,0.0,80000.0,20000.0,25000.0,30000.0,Material,Mild Steel,10000.0,31000.0
+667,Roller Conveyor,Meter,0.0,80000.0,20000.0,25000.0,30000.0,Material,Stainless Steel,1500.0,40000.0
+668,Roller Conveyor,Meter,0.0,80000.0,20000.0,25000.0,30000.0,Roller Material,Steel,4500.0,22000.0
+669,Roller Conveyor,Meter,0.0,80000.0,20000.0,25000.0,30000.0,Type,Flexible Conveyors,1500.0,55000.0
+670,Roller Conveyor,Number,300.0,200000.0,150000.0,16000.0,15000.0,---,---,---,---
+671,Roller Conveyor,Pair,15000.0,20000.0,20000.0,15000.0,0.0,---,---,---,---
+672,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Application,All Industries,35000.0,150000.0
+673,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Brand,R E F Make,35000.0,150000.0
+674,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Length,As Per Requirement.,35000.0,150000.0
+675,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Material,Mild Steel,12500.0,180000.0
+676,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Material,Stainless Steel,1500.0,180000.0
+677,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Roller Material,Steel,100.0,150000.0
+678,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Type,Flexible Conveyors,0.0,250000.0
+679,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Type,Spiral Conveyors,3500.0,65000.0
+680,Roller Conveyor,Piece,3.0,800000.0,50000.0,150000.0,200000.0,Type,Vertical Conveyors,100.0,65000.0
+681,Roller Conveyor,Piece(s),45000.0,200000.0,50000.0,80000.0,200000.0,---,---,---,---
+682,Roller Conveyor,Set,40000.0,40000.0,40000.0,0.0,0.0,---,---,---,---
+683,Roller Conveyor,Square Feet,10000.0,10000.0,10000.0,0.0,0.0,---,---,---,---
+684,Roller Conveyor,Unit,0.0,700000.0,50000.0,100000.0,70000.0,Material,Mild Steel,20000.0,400000.0
+685,Roller Conveyor,Unit,0.0,700000.0,50000.0,100000.0,70000.0,Material,Stainless Steel,1000.0,570000.0
+686,Roller Conveyor,Unit,0.0,700000.0,50000.0,100000.0,70000.0,Roller Material,Steel,25000.0,187400.0
+687,Roller Conveyor,Unit,0.0,700000.0,50000.0,100000.0,70000.0,Type,Flexible Conveyors,8000.0,300000.0
+688,Roller Conveyor,Unit,0.0,700000.0,50000.0,100000.0,70000.0,Usage/Application,Industrial,6500.0,12000.0
+689,Rotary Screw Compressors,Number,100000.0,447644.0,180000.0,105000.0,160000.0,---,---,---,---
+690,Rotary Screw Compressors,Piece,150000.0,550000.0,500000.0,550000.0,220000.0,Compressor Technology,Screw Compressor,185000.0,340000.0
+691,Rotary Screw Compressors,Unit,0.0,4500000.0,90000.0,100000.0,250.0,Brand,Atlas Copco,50000.0,2000000.0
+692,Rotary Screw Compressors,Unit,0.0,4500000.0,90000.0,100000.0,250.0,Compressor Brand,Atlas Copco,90000.0,200000.0
+693,Rotary Screw Compressors,Unit,0.0,4500000.0,90000.0,100000.0,250.0,Power Source,AC Three Phase,100000.0,200000.0
+694,Roti Makers,Box,999.0,1199.0,1199.0,999.0,0.0,---,---,---,---
+695,Roti Makers,Piece,0.0,220000.0,65000.0,145000.0,220000.0,Type,Automatic/Electric,1199.0,145000.0
+696,Rubber Conveyor Belt,Centimeter,12.0,22.0,12.0,22.0,0.0,---,---,---,---
+697,Rubber Conveyor Belt,Feet,80.0,3500.0,80.0,100.0,3500.0,---,---,---,---
+698,Rubber Conveyor Belt,Kilogram,35.0,200.0,100.0,200.0,35.0,---,---,---,---
+699,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,10 mm,140.0,1750.0
+700,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,2 - 5 mm,30.0,200.0
+701,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,5 - 10 mm,125.0,800.0
+702,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,5 - 20 mm,1500.0,1500.0
+703,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,6 - 12 mm,150.0,1800.0
+704,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,6 - 25 mm,10000.0,10000.0
+705,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,8 & 10 mm,510.0,600.0
+706,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,8 - 16 mm,500.0,2000.0
+707,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Thickness,Upto 18mm,250.0,1200.0
+708,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,100 - 1500 mm,140.0,1500.0
+709,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,40 - 100 mm,35.0,600.0
+710,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,400 - 1500 mm,1250.0,1800.0
+711,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,450 - 2200 mm,510.0,600.0
+712,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,450 - 2400 mm,425.0,2000.0
+713,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,500 - 2500 mm,10000.0,10000.0
+714,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Belt Width,Upto 1200mm,250.0,1200.0
+715,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Brand,Bharat Conveyor,550.0,600.0
+716,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Material,Nitro Rubber,550.0,595.0
+717,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Material,Rubber,0.0,2800.0
+718,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Material,Rubber & Nylon,1500.0,2800.0
+719,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Tensile Strength,12 MPa,1200.0,2000.0
+720,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Tensile Strength,15 Newton Per Sq Mm,140.0,1500.0
+721,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Tensile Strength,18 MPa,900.0,1400.0
+722,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Tensile Strength,"315/3,400/4,630/4 & 700/4 Square Meter",510.0,600.0
+723,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Tensile Strength,Customized,400.0,2600.0
+724,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Thickness,8mm,140.0,750.0
+725,Rubber Conveyor Belt,Meter,0.0,10000.0,1000.0,1500.0,500.0,Type,General Purpose Belts,30.0,2500.0
+726,Rubber Conveyor Belt,Piece,40.0,150000.0,40.0,1500.0,20000.0,Belt Thickness,2 - 5 mm,40.0,46000.0
+727,Rubber Conveyor Belt,Piece,40.0,150000.0,40.0,1500.0,20000.0,Belt Width,40 - 100 mm,40.0,500.0
+728,Rubber Conveyor Belt,Piece,40.0,150000.0,40.0,1500.0,20000.0,Material,Rubber,40.0,70000.0
+729,Rubber Conveyor Belt,Piece,40.0,150000.0,40.0,1500.0,20000.0,Type,General Purpose Belts,40.0,20000.0
+730,Rubber Conveyor Belt,Roll,25000.0,25000.0,25000.0,0.0,0.0,---,---,---,---
+731,Rubber Conveyor Belt,Square Feet,120.0,1500.0,1200.0,1500.0,120.0,---,---,---,---
+732,Rubber Conveyor Belt,Square Meter,1000.0,2800.0,1800.0,2400.0,2500.0,Belt Thickness,6 - 25 mm,1800.0,2500.0
+733,Rubber Conveyor Belt,Square Meter,1000.0,2800.0,1800.0,2400.0,2500.0,Belt Width,500 - 2400 mm,1800.0,2500.0
+734,Rubber Conveyor Belt,Square Meter,1000.0,2800.0,1800.0,2400.0,2500.0,Material,Rubber,1000.0,2750.0
+735,Rubber Conveyor Belt,Square Meter,1000.0,2800.0,1800.0,2400.0,2500.0,Tensile Strength,24 MPa,1800.0,2500.0
+736,Rubber Conveyor Belt,Unit,1500.0,1500000.0,90000.0,85000.0,1500000.0,---,---,---,---
+737,Rubber Conveyor Belt,running meter,1800.0,1800.0,1800.0,0.0,0.0,---,---,---,---
+738,Single Phase Induction Motors,Pair,3550.0,5160.0,4800.0,5160.0,3550.0,---,---,---,---
+739,Single Phase Induction Motors,Piece,1.0,12000.0,4000.0,7800.0,1.0,No of Phase,Single Phase,1.0,12000.0
+740,Single Phase Induction Motors,Unit,2250.0,25000.0,3000.0,6300.0,9000.0,---,---,---,---
+741,Single Stage Reciprocating Compressor,Nos,20000.0,20000.0,20000.0,0.0,0.0,---,---,---,---
+742,Single Stage Reciprocating Compressor,Piece,0.0,130000.0,18000.0,25000.0,10000.0,Number of Compression Stages,Single Stage,13000.0,55000.0
+743,Single Stage Reciprocating Compressor,Unit,9000.0,78000.0,10500.0,9000.0,35000.0,Number of Compression Stages,Single Stage,10500.0,15000.0
+744,Single Stage Reciprocating Compressor,Unit,9000.0,78000.0,10500.0,9000.0,35000.0,Power Source,AC Single Phase,10500.0,11000.0
+745,Skid Steer Loader,Piece,9999.0,2100000.0,9999.0,1750000.0,2100000.0,---,---,---,---
+746,Skid Steer Loader,Unit,1400000.0,2800000.0,2800000.0,1500000.0,1400000.0,---,---,---,---
+747,Slat Conveyor,Meter,12000.0,48000.0,22000.0,12000.0,16000.0,---,---,---,---
+748,Slat Conveyor,Number,5000.0,125000.0,36500.0,125000.0,5000.0,---,---,---,---
+749,Slat Conveyor,Piece,0.0,600000.0,200000.0,250000.0,600000.0,Brand,R E F Make,300000.0,400000.0
+750,Slat Conveyor,Piece,0.0,600000.0,200000.0,250000.0,600000.0,Material Handling Capacity,50-100 kg per feet,32000.0,200000.0
+751,Slat Conveyor,Piece,0.0,600000.0,200000.0,250000.0,600000.0,Type,Various,300000.0,400000.0
+752,Slat Conveyor,Set,50000.0,180000.0,50000.0,180000.0,0.0,---,---,---,---
+753,Slat Conveyor,Unit,17600.0,800000.0,45000.0,60000.0,100000.0,---,---,---,---
+754,Solar Fans,No,450.0,485.0,450.0,485.0,0.0,---,---,---,---
+755,Solar Fans,Piece,0.0,2900.0,950.0,660.0,999.0,Brand,Lovely Solar Fan,400.0,950.0
+756,Solar Fans,Piece,0.0,2900.0,950.0,660.0,999.0,Material,Plastic/Fibre,140.0,1700.0
+757,Solar Fans,Piece,0.0,2900.0,950.0,660.0,999.0,Type,Pedestal Fan,380.0,900.0
+758,Solar Fans,Piece,0.0,2900.0,950.0,660.0,999.0,Voltage,12 Volt DC,400.0,950.0
+759,Solar Pump Controller,Number,15000.0,42000.0,23900.0,15000.0,15500.0,---,---,---,---
+760,Solar Pump Controller,Piece,1800.0,75000.0,13500.0,12000.0,14000.0,Pump Type,submersible pump,12000.0,55500.0
+761,Solar Pump Controller,Piece,1800.0,75000.0,13500.0,12000.0,14000.0,Usage/Application,Agriculture,12000.0,75000.0
+762,Solar Pump Controller,Unit,350.0,61000.0,15000.0,14500.0,48000.0,Usage/Application,Agriculture,14500.0,50000.0
+763,Solar Pump Controller,Unit,350.0,61000.0,15000.0,14500.0,48000.0,Usage/Application,Submersible,10000.0,52500.0
+764,Sony Digital Camera,Piece,7290.0,290490.0,230490.0,149990.0,7290.0,Brand,Sony,7290.0,230490.0
+765,Sony Digital Camera,Piece,7290.0,290490.0,230490.0,149990.0,7290.0,Recording Format,JEPG,7290.0,174490.0
+766,Spun Yarn,Kilogram,0.0,2500.0,250.0,140.0,350.0,Color,"Grey, Natural, Color",250.0,250.0
+767,Spun Yarn,Kilogram,0.0,2500.0,250.0,140.0,350.0,Material,Polyester,250.0,250.0
+768,Spun Yarn,Kilogram,0.0,2500.0,250.0,140.0,350.0,No. of ply,3 ply,250.0,250.0
+769,Spun Yarn,Kilogram,0.0,2500.0,250.0,140.0,350.0,Pattern,Dyed,210.0,1400.0
+770,Spun Yarn,Kilogram,0.0,2500.0,250.0,140.0,350.0,Pattern,Raw,185.0,350.0
+771,Spun Yarn,Kilogram,0.0,2500.0,250.0,140.0,350.0,Usage,Stitching and Embroidary,250.0,250.0
+772,Spun Yarn,kg,140.0,140.0,140.0,0.0,0.0,---,---,---,---
+773,Stainless Steel Cable Tie,Number,2.5,6.9,2.0,2.0,2.0,---,---,---,---
+774,Stainless Steel Cable Tie,Packet,200.0,350.0,300.0,285.0,350.0,---,---,---,---
+775,Stainless Steel Cable Tie,Piece,3.0,150.0,5.0,3.0,3.0,---,---,---,---
+776,Stainless Steel Cable Tie,packet,200.0,300.0,300.0,200.0,0.0,---,---,---,---
+777,Steam Iron,Box,1800.0,2300.0,1800.0,2300.0,0.0,---,---,---,---
+778,Steam Iron,Piece,250.0,5800.0,1200.0,3200.0,500.0,---,---,---,---
+779,Steam Iron,Set,1800.0,2850.0,1800.0,2450.0,2850.0,---,---,---,---
+780,Steam Iron,Unit,999.0,3200.0,999.0,2250.0,2280.0,---,---,---,---
+781,Tea Packaging Machine,Packet,75000.0,75000.0,75000.0,0.0,0.0,---,---,---,---
+782,Tea Packaging Machine,Piece,75000.0,800000.0,125000.0,130000.0,115000.0,Automatic Grade,Automatic,95000.0,320000.0
+783,Tea Packaging Machine,Unit,0.0,900000.0,250000.0,115000.0,120000.0,Automatic Grade,Automatic,75000.0,330000.0
+784,Textile Yarn,Kilogram,65.0,599.0,95.0,120.0,200.0,Material,Polyester,95.0,185.0
+785,Three Phase Induction Motor,No,7500.0,7500.0,7500.0,0.0,0.0,---,---,---,---
+786,Three Phase Induction Motor,Number,5500.0,6500.0,5500.0,6500.0,0.0,---,---,---,---
+787,Three Phase Induction Motor,Pair,4800.0,5160.0,5160.0,4800.0,0.0,---,---,---,---
+788,Three Phase Induction Motor,Piece,0.0,94462.5,2500.0,2600.0,1820.0,Brand,CROMPTON,6210.0,19665.0
+789,Three Phase Induction Motor,Piece,0.0,94462.5,2500.0,2600.0,1820.0,Mounting Type,B3,6585.0,39870.0
+790,Three Phase Induction Motor,Piece,0.0,94462.5,2500.0,2600.0,1820.0,No of Phase,Three Phase,2500.0,45817.0
+791,Three Phase Induction Motor,Unit,2025.0,17500.0,3550.0,4000.0,2025.0,Brand,Rimco,2025.0,4650.0
+792,Three Phase Induction Motor,Unit,2025.0,17500.0,3550.0,4000.0,2025.0,No of Phase,Three Phase,2025.0,10000.0
+793,Three Phase Induction Motor,Unit,2025.0,17500.0,3550.0,4000.0,2025.0,Voltage,415,2025.0,4650.0
+794,Toaster,Piece,300.0,120999.0,1890.0,600.0,6500.0,Brand,HAVELLS,1890.0,1890.0
+795,Toaster,Piece,300.0,120999.0,1890.0,600.0,6500.0,Color,White,1890.0,1890.0
+796,Toaster,Piece,300.0,120999.0,1890.0,600.0,6500.0,Material,Stainless Steel,1726.0,8000.0
+797,Toaster,Piece,300.0,120999.0,1890.0,600.0,6500.0,Power,110-220V110-220V,1890.0,1890.0
+798,Toaster,Unit,999.0,55000.0,999.0,55000.0,1395.0,---,---,---,---
+799,Tractor Front End Loader,Piece,0.0,650000.0,350000.0,180000.0,30000.0,Condition,Brand New,150000.0,175000.0
+800,Tractor Front End Loader,Unit,130000.0,415000.0,170000.0,250000.0,290000.0,Condition,Brand New,190000.0,329000.0
+801,Tractor Front End Loader,Unit,130000.0,415000.0,170000.0,250000.0,290000.0,Material,MS,135000.0,170000.0
+802,Tractor Front End Loader,Unit,130000.0,415000.0,170000.0,250000.0,290000.0,Material,Mild Steel,35000.0,400000.0
+803,Tractor Mounted Air Compressor,Pair,2000.0,2000.0,2000.0,0.0,0.0,---,---,---,---
+804,Tractor Mounted Air Compressor,Piece,0.0,150000.0,600.0,2000.0,650.0,Compressor Brand,Atlas Copco,600.0,2200.0
+805,Tractor Mounted Air Compressor,Piece,0.0,150000.0,600.0,2000.0,650.0,Compressor Technology,Reciprocating Compressor,600.0,2200.0
+806,Tractor Mounted Air Compressor,Piece,0.0,150000.0,600.0,2000.0,650.0,Horse Power,42,600.0,2200.0
+807,Tractor Mounted Air Compressor,Piece,0.0,150000.0,600.0,2000.0,650.0,Maximum Flow Rate,121 - 500 cfm,600.0,2200.0
+808,Tractor Mounted Air Compressor,Piece,0.0,150000.0,600.0,2000.0,650.0,Model Number/Name,VT4,600.0,2200.0
+809,Tractor Mounted Air Compressor,Piece,0.0,150000.0,600.0,2000.0,650.0,Power Source,Pneumatic,600.0,2200.0
+810,Tractor Mounted Air Compressor,Set,100.0,750000.0,75000.0,100.0,160000.0,---,---,---,---
+811,Tractor Mounted Air Compressor,Unit,14000.0,2500000.0,100000.0,800000.0,25000.0,---,---,---,---
+812,Tube Filling Machine,Number,550000.0,1200000.0,800000.0,1100000.0,550000.0,Packaging Type,Plastics Tubes,800000.0,1200000.0
+813,Tube Filling Machine,Piece,0.0,600000.0,600000.0,45000.0,104200.0,---,---,---,---
+814,Tube Filling Machine,Set,710000.0,710000.0,710000.0,0.0,0.0,---,---,---,---
+815,Tube Filling Machine,Unit,275000.0,1100000.0,490000.0,300000.0,1100000.0,---,---,---,---
+816,Twisted Yarn,Kilogram,25.0,3600.0,25.0,135.0,240.0,---,---,---,---
+817,Vertical Form Fill Seal Machines,Number,1200000.0,1200000.0,1200000.0,0.0,0.0,---,---,---,---
+818,Vertical Form Fill Seal Machines,Piece,90000.0,340000.0,90000.0,125000.0,98000.0,---,---,---,---
+819,Vertical Form Fill Seal Machines,Set,150000.0,2610000.0,2610000.0,150000.0,0.0,---,---,---,---
+820,Vertical Form Fill Seal Machines,Unit,110000.0,400000.0,400000.0,325000.0,360000.0,---,---,---,---
+821,Water Demineralization Plant,Number,150000.0,250000.0,150000.0,250000.0,0.0,---,---,---,---
+822,Water Demineralization Plant,Piece,10000.0,500000.0,500000.0,80000.0,150000.0,---,---,---,---
+823,Water Demineralization Plant,Set,100000.0,600000.0,100000.0,600000.0,150000.0,---,---,---,---
+824,Water Demineralization Plant,Unit,5000.0,375000.0,100000.0,150000.0,50000.0,Automation Grade,Automatic,7000.0,240000.0
+825,Water Demineralization Plant,Unit,5000.0,375000.0,100000.0,150000.0,50000.0,Flow rate,500 m3/hour,20000.0,250000.0
+826,Water Demineralization Plant,Unit,5000.0,375000.0,100000.0,150000.0,50000.0,Water Source,Borewell Water,20000.0,100000.0
+827,Water Packaging Machine,Pair,110000.0,550000.0,110000.0,550000.0,0.0,---,---,---,---
+828,Water Packaging Machine,Piece,0.0,1500000.0,200000.0,225000.0,170000.0,---,---,---,---
+829,Water Packaging Machine,Set,1500000.0,1500000.0,1500000.0,0.0,0.0,---,---,---,---
+830,Water Packaging Machine,Unit,100000.0,1250000.0,155000.0,125000.0,120000.0,Material,Stainless Steel,120000.0,125000.0
+831,Water Packaging Machine,nos,40000.0,40000.0,40000.0,0.0,0.0,---,---,---,---
+832,Wheel Loader,No,1600000.0,1600000.0,1600000.0,0.0,0.0,---,---,---,---
+833,Wheel Loader,Piece,10.0,4249600.0,2500000.0,10.0,3500000.0,---,---,---,---
+834,Wheel Loader,Unit,985650.0,7000000.0,1650000.0,1850000.0,2450000.0,---,---,---,---
+835,Wire Drawing Machines,1 Unit,500000.0,630000.0,630000.0,500000.0,0.0,---,---,---,---
+836,Wire Drawing Machines,Piece,5800.0,1000000.0,250000.0,200000.0,325000.0,---,---,---,---
+837,Wire Drawing Machines,Set,250000.0,3989000.0,300000.0,3989000.0,250000.0,---,---,---,---
+838,Wire Drawing Machines,Unit,20000.0,4000000.0,2000000.0,70000.0,500000.0,Max Inlet Wire Diameter,3-6 mm,300000.0,500000.0
+839,Wire Drawing Machines,Unit,20000.0,4000000.0,2000000.0,70000.0,500000.0,Types of Metal,Copper,400000.0,3000000.0
+840,Wire Drawing Machines,Unit,20000.0,4000000.0,2000000.0,70000.0,500000.0,Usage/Application,Wire Drawing,600000.0,3000000.0
+841,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Brand,Onesport,225.0,275.0
+842,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Brand,Westwood,1499.0,1649.0
+843,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Color,Black,175.0,225.0
+844,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Fabric,Cotton,0.0,1649.0
+845,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Fabric,Cotton and Lycra blended,200.0,200.0
+846,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Fabric,Lycra Cotton,90.0,480.0
+847,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Fabric,Polyester Spandex Jersey,225.0,300.0
+848,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Size,All Sizes,95.0,480.0
+849,Womens Capri,Piece,0.0,1749.0,200.0,225.0,275.0,Size,"S, M, L, XL",200.0,200.0
+850,Womens Capri,Set,275.0,330.0,330.0,275.0,0.0,---,---,---,---
+851,Womens Capri,Unit,100.0,435.0,435.0,100.0,0.0,---,---,---,---
+852,Wooden Crates,Cubic Feet,280.0,550.0,500.0,330.0,280.0,Shape,Rectangular,280.0,550.0
+853,Wooden Crates,Cubic Feet,280.0,550.0,500.0,330.0,280.0,Wood Type,Rubber Wood,400.0,550.0
+854,Wooden Crates,Kilogram,50.0,100.0,50.0,100.0,0.0,---,---,---,---
+855,Wooden Crates,Number,385.0,385.0,385.0,0.0,0.0,---,---,---,---
+856,Wooden Crates,Piece,0.0,4500.0,750.0,200.0,700.0,Shape,Rectangular,200.0,1000.0
+857,Wooden Crates,Square Feet,35.0,350.0,35.0,70.0,320.0,---,---,---,---
