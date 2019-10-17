@@ -3,6 +3,7 @@ An Ensembled Unsupervised learning approach to optimal price range determination
 
 Language Used: Python 3.6
 
+![Workflow](WorlFlow.png)
 
 To run locally:
 
