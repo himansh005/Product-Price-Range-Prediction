@@ -1,5 +1,5 @@
 # Price-Range-Prediction
-An Ensembled Unsupervised learning approach to optimal price range determination. Ongoing project for IndiaMART
+An Ensembled Unsupervised learning approach to optimal price range determination.
 
 Language Used: Python 3.6
 
